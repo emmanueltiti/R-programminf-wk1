@@ -18,6 +18,8 @@ Performing basic descriptive statistical analysis
 Data cleaning:dealing with missing values, outlieres and duplicates 
 univariate and bivariate analysis
 
+ML model creation
+
 **ML model used**
 
 XG Boost
