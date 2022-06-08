@@ -1,4 +1,5 @@
-This repo contains my first ever R script in PDF that covers basic EDA in R programing
+This repo contains my first ever R script in PDF that covers basic EDA in R programing and XGbooxt model for machine learning(ML)
+
 **Data set**
 
 IPAdverising data set(http://bit.ly/IPAdvertisingData)
